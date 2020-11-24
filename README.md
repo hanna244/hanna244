@@ -65,9 +65,9 @@
 
   [![한나가 공부 중인 이듬 멘토링 프로그램](https://github-readme-stats.vercel.app/api/pin/?username=hanna244&repo=EUID-mentoring&show_owner=true)](https://github.com/hanna244/EUID-mentoring)
 
-- **이듬(E.UID) 블렌디드 러닝 2020**에 참여했어요.
+<!-- - **이듬(E.UID) 블렌디드 러닝 2020**에 참여했어요. -->
 
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=yamoo9&repo=EUID_202010&show_owner=true)](https://github.com/yamoo9/EUID_202010)
+  <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=yamoo9&repo=EUID_202010&show_owner=true)](https://github.com/yamoo9/EUID_202010) -->
 
 <br/>
 
@@ -79,4 +79,4 @@
 
 - **왓챠(WATCHA) 개선 프로젝트**를 진행하고 있어요. (비공개)
 
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=hanna244&repo=make-better-netflix-website&show_owner=true)](https://github.com/hanna244/make-better-netflix-website)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=hanna244&repo=make-better-watcha-website&show_owner=true)](https://github.com/hanna244/make-better-watcha-website)
