@@ -13,18 +13,18 @@
 - ⚡ 재미있는 사실: ...
 -->
 
-## I'm 한나 ☝🏻
+## Hi there, I'm Hanna ☝🏻
 
 <!-- 참고: https://getemoji.com/#objects -->
 
-- 한나는 **오늘도 노력합니다!** 👱🏻‍♀️ 🧁 🍰 🎂
-- 2021년의 한나는 **좋은 개발자로 성장**할 겁니다. 지켜봐주세요. 👀 🙊
+- **1day 1commit**을 실천하려 매일 노력하는 중입니다! 👱🏻‍♀️ 🧁 🍰 🎂
+- 2021년의 저는 **좋은 개발자로 성장**할 겁니다. 지켜봐주세요. 👀 🙊
 - 코로나19 🦠 로 전 세계가 힘들지만, 모두 힘내서 이겨냈으면 좋겠습니다. 🌹
-- 연락은 [shhn0509@gmail.com](shhn0509@gmail.com)로 메일 주세요. ☃️
+- 연락은 [hanna244@euid.dev](hanna244@euid.dev)로 메일 주세요. ☃️
 
 <br/>
 
-## 한나의 GitHub은
+## Hanna's GitHub
 
 **A+** 받을 정도로 매일 꾸준하게 활동 중이에요!
 
@@ -34,8 +34,9 @@
 
 <br />
 
-## 한나가 공부하고 사용하는 것들은
+## Languages and Tools
 
+<img align="left" title="Accessibility" alt="Accessibility" width="26" src="./assets/a11y.jpg" />
 <img align="left" title="HTML5" alt="HTML5" width="26" src="./assets/html.jpg" />
 <img align="left" title="CSS3" alt="CSS3" width="26" src="./assets/css.jpg" />
 <img align="left" title="Sass" alt="Sass" width="26" src="./assets/sass.jpg" />
@@ -54,9 +55,11 @@
 
 <br/>
 
-## 한나가 최근 관심을 주는 저장소는
+## My favorite Repositories
 
 - **이듬(E.UID) 멘토링 프로그램**에 참여하고 있어요.
+
+  - 이 저장소에서 저의 TIL 등 공부하는 모습을 보실 수 있습니다 구경하러 오세요. 열심히 하고 있습니다 :-) 📚✏️
 
   [![한나가 공부 중인 이듬 멘토링 프로그램](https://github-readme-stats.vercel.app/api/pin/?username=hanna244&repo=EUID-mentoring&show_owner=true)](https://github.com/hanna244/EUID-mentoring)
 
