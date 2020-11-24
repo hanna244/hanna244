@@ -48,6 +48,8 @@
 <img align="left" title="GitHub" alt="GitHub" width="26" src="./assets/github.jpg" />
 <img align="left" title="Git" alt="Git" width="26" src="./assets/git.jpg" />
 <img align="left" title="VS Code" alt="Visual Studio Code" width="26" src="./assets/vscode.jpg" />
+
+<br/>
 <br/>
 <br/>
 
@@ -55,7 +57,7 @@
 
 <br/>
 
-## My favorite Repositories
+## Hanna is participating learning repository
 
 - **이듬(E.UID) 멘토링 프로그램**에 참여하고 있어요.
 
@@ -63,6 +65,18 @@
 
   [![한나가 공부 중인 이듬 멘토링 프로그램](https://github-readme-stats.vercel.app/api/pin/?username=hanna244&repo=EUID-mentoring&show_owner=true)](https://github.com/hanna244/EUID-mentoring)
 
+- **이듬(E.UID) 블렌디드 러닝 2020**에 참여했어요.
+
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=yamoo9&repo=EUID_202010&show_owner=true)](https://github.com/yamoo9/EUID_202010)
+
+<br/>
+
+## Hanna is working project repository
+
 - **넷플릭스(Netflix) 개선 프로젝트**를 진행하고 있어요. (비공개)
 
-  [![한나가 공부 중인 이듬 멘토링 프로그램](https://github-readme-stats.vercel.app/api/pin/?username=hanna244&repo=make-better-netflix-website&show_owner=true)](https://github.com/hanna244/make-better-netflix-website)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=hanna244&repo=make-better-netflix-website&show_owner=true)](https://github.com/hanna244/make-better-netflix-website)
+
+- **왓챠(WATCHA) 개선 프로젝트**를 진행하고 있어요. (비공개)
+
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=hanna244&repo=make-better-netflix-website&show_owner=true)](https://github.com/hanna244/make-better-netflix-website)
