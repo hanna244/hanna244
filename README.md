@@ -18,15 +18,15 @@
 <!-- 참고: https://shields.io/ -->
 <!-- 참고: https://simpleicons.org/ -->
 
-<img src="https://img.shields.io/badge/Christianity-%20-blue?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAApCAMAAABjq9sOAAAAolBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8ELnaCAAAANXRSTlMA+ubi0vRBBPz27ddjNiHu6t3Nw2obEArox6eRg3hfUzIfDQjxu7OtjFBLRTstJBcUEqKYJhb30NcAAAEXSURBVDjLvdTZboMwEEDRARtIwr4lAcKefU9b//+vtWaklkqdWspD7uNwxGJhw6jU1odYA393nQjMJMCC4fWpB0QZAragQI4gA6oVgpwEDoIVCU4IEhJcEBxJkBoDcGFc5Zzb789iwzLcAOtTt3JATli2K0qnNt1QgvXJPFRlkcehvCFo4r/UYPIKILBpEPJ4M6yDFsc8XBoCg8jeFsnB9R49ANhy5HcA1rxtjsl+xzlYFvzEJQjmo4kFv4okWEpApAT4iAdQWfiSdwVY30jQMwmMlgSdLoF2JcF9JmQX9S9H9aGRWxNrxFBNAhOBQ4IaQUmCBMFetXnfSPCOYEOCLQJOggiB3j17Rnma4pTzmD/7yg/Oo+EnM9VWjcmPx28AAAAASUVORK5CYII=&logoColor=white&labelColor=282a36&color=FD5E60" alt="Christianity" />&nbsp; 
-<img src="https://img.shields.io/badge/Front--End%20Developer-%20-blue?style=flat&logo=google-tag-manager&logoColor=white&labelColor=282a36&color=EF4678" alt="Front-End Developer" />&nbsp; 
-<img src="https://img.shields.io/badge/Chinese%20literature-%20-blue?style=flat&logo=microsoft-academic&logoColor=white&labelColor=282a36&color=FF5A5F" alt="Chinese Literature" />&nbsp; 
-<img src="https://img.shields.io/badge/I%20like%20Traveling-%20-blue?style=flat&logo=tripadvisor&logoColor=white&labelColor=282a36&color=FFE953" alt="I like Traveling" />
-<a href="https://www.instagram.com/hanna244_05/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/instagram-hanna244__05-blue?logo=instagram&logoColor=fff&labelColor=282a36&color=E4405F" alt="hanna instagram" /></a>
+<img src="https://img.shields.io/badge/Christianity-%20-blue?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAApCAMAAABjq9sOAAAAolBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8ELnaCAAAANXRSTlMA+ubi0vRBBPz27ddjNiHu6t3Nw2obEArox6eRg3hfUzIfDQjxu7OtjFBLRTstJBcUEqKYJhb30NcAAAEXSURBVDjLvdTZboMwEEDRARtIwr4lAcKefU9b//+vtWaklkqdWspD7uNwxGJhw6jU1odYA393nQjMJMCC4fWpB0QZAragQI4gA6oVgpwEDoIVCU4IEhJcEBxJkBoDcGFc5Zzb789iwzLcAOtTt3JATli2K0qnNt1QgvXJPFRlkcehvCFo4r/UYPIKILBpEPJ4M6yDFsc8XBoCg8jeFsnB9R49ANhy5HcA1rxtjsl+xzlYFvzEJQjmo4kFv4okWEpApAT4iAdQWfiSdwVY30jQMwmMlgSdLoF2JcF9JmQX9S9H9aGRWxNrxFBNAhOBQ4IaQUmCBMFetXnfSPCOYEOCLQJOggiB3j17Rnma4pTzmD/7yg/Oo+EnM9VWjcmPx28AAAAASUVORK5CYII=&logoColor=white&labelColor=282a36&color=d73a3a" alt="Christianity" />&nbsp; 
+<img src="https://img.shields.io/badge/Front--End%20Developer-%20-blue?style=flat&logo=google-tag-manager&logoColor=white&labelColor=282a36&color=d73a82" alt="Front-End Developer" />&nbsp; 
+<img src="https://img.shields.io/badge/Chinese%20literature-%20-blue?style=flat&logo=microsoft-academic&logoColor=white&labelColor=282a36&color=e69481" alt="Chinese Literature" />&nbsp; 
+<img src="https://img.shields.io/badge/I%20like%20Traveling-%20-blue?style=flat&logo=tripadvisor&logoColor=white&labelColor=282a36&color=d7983a" alt="I like Traveling" />
+<a href="https://www.instagram.com/hanna_kim244/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/instagram-hanna_kim244-blue?logo=instagram&logoColor=fff&labelColor=282a36&color=d7573a" alt="hanna instagram" /></a>
 
 <!-- 테마 참고: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
-[![](https://github-readme-stats.vercel.app/api?username=hanna244&count_private=true&include_all_commits=true&line_height=22&show_icons=true&theme=dracula&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hanna244&count_private=true&include_all_commits=true&line_height=24&show_icons=true&theme=solarized-light&hide=issues" width="360" />
 
 <!-- 참고: https://getemoji.com/#objects -->
 
@@ -44,7 +44,7 @@
 
 <img src="https://img.shields.io/badge/Web%20Standard-%20-blue?style=flat&logo=wear-os&logoColor=white&labelColor=282a36&color=1ED760" alt="Web Standard" />&nbsp; 
 <img src="https://img.shields.io/badge/Web%20Accessibility-%20-blue?style=flat&logo=wear-os&logoColor=white&labelColor=282a36&color=06D6A9" alt="Web Accessibility" />&nbsp; 
-<img src="https://img.shields.io/badge/JavaScript%20Follower-%20-blue?style=flat&logo=javascript&logoColor=white&labelColor=282a36&color=F7DF1E" alt="JavaScript Follower" />&nbsp; 
+<img src="https://img.shields.io/badge/JavaScript%20Follower-%20-blue?style=flat&logo=javascript&logoColor=white&labelColor=282a36&color=005cc5" alt="JavaScript Follower" />&nbsp; 
 <img src="https://img.shields.io/badge/React%20Follower-%20-blue?style=flat&logo=react&logoColor=white&labelColor=282a36&color=61DAFB" alt="React Follower" />&nbsp; 
 
 <img align="left" title="Accessibility" alt="Accessibility" width="26" src="./assets/a11y.jpg" />
