@@ -13,7 +13,7 @@
 - ⚡ 재미있는 사실: ...
 -->
 
-## Hi there, I'm Hanna <img align="middle" title="I'm Hanna" alt="" height="50" src="https://thumbs.gfycat.com/InnocentNarrowHyracotherium.webp" />&nbsp; 
+## Hi there, I'm Hanna <img align="middle" title="I'm Hanna" alt="" height="40" src="https://thumbs.gfycat.com/InnocentNarrowHyracotherium.webp" />&nbsp; 
 
 <!-- 참고: https://shields.io/ -->
 <!-- 참고: https://simpleicons.org/ -->
@@ -40,7 +40,7 @@
 
 <br />
 
-## Languages and Tools
+## Languages and Tools<img align="middle" title="Languages and Tools" alt="" height="40" src="https://thumbs.gfycat.com/BewitchedCharmingGalapagostortoise.webp" />&nbsp; 
 
 <img src="https://img.shields.io/badge/Web%20Standard-%20-blue?style=flat&logo=wear-os&logoColor=white&labelColor=282a36&color=1ED760" alt="Web Standard" />&nbsp; 
 <img src="https://img.shields.io/badge/Web%20Accessibility-%20-blue?style=flat&logo=wear-os&logoColor=white&labelColor=282a36&color=06D6A9" alt="Web Accessibility" />&nbsp; 
@@ -87,7 +87,7 @@
 
 <br/>
 
-## Hanna is working project repository <img align="middle" title="repository" alt="" height="50" src="https://thumbs.gfycat.com/WeepySelfassuredAnteater.webp" />
+## Hanna is working project repository <img align="middle" title="repository" alt="" height="40" src="https://thumbs.gfycat.com/WeepySelfassuredAnteater.webp" />
 
 <!-- 참고: https://shields.io/, https://simpleicons.org, https://worldvectorlogo.com -->
 
