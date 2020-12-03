@@ -53,8 +53,9 @@
 <img align="left" title="Sass" alt="Sass" width="26" src="./assets/sass.jpg" />
 <img align="left" title="JavaScript" alt="JavaScript" width="26" src="./assets/js.jpg" />
 <img align="left" title="ECMAScript 2015" alt="ECMAScript 2015" width="26" src="./assets/es6.jpg" />
-<img align="left" title="Node JS" alt="Node JS" width="26" src="./assets/nodejs.jpg" />
 <img align="left" title="React" alt="React" width="26" src="./assets/react.jpg" />
+<img align="left" title="Storybook" alt="Storybook" width="26" src="./assets/storybook.png" />
+<img align="left" title="Node JS" alt="Node JS" width="26" src="./assets/nodejs.jpg" />
 <img align="left" title="Firebase" alt="Firebase" width="26" src="./assets/firebase.jpg" />
 <img align="left" title="GitHub" alt="GitHub" width="26" src="./assets/github.jpg" />
 <img align="left" title="Git" alt="Git" width="26" src="./assets/git.jpg" />
