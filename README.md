@@ -70,7 +70,7 @@
 
 <br/>
 
-## Hanna is participating learning repository
+<!-- ## Hanna is participating learning repository
 
 <a href="" target="_blank" rel="noopener noreferrer"><img style="vertical-align: -3px" src="https://img.shields.io/badge/E.UID%20Mentoring%20Program-%20-E50914?style=flat&logo=github&logoColor=fff&labelColor=000&color=FFCC00" alt="이듬 멘토링 프로그램" /></a>
 
@@ -80,13 +80,12 @@
 **이듬(E.UID) 멘토링 프로그램**에 참여하고 있어요.  
 이 저장소에서 저의 TIL 등 공부하는 모습을 볼 수 있습니다! 구경하러 오세요. 열심히 하고 있어요. 😁 📚✏️
 
-  [![한나가 공부 중인 이듬 멘토링 프로그램](https://github-readme-stats.vercel.app/api/pin/?username=hanna244&repo=EUID-mentoring&show_owner=true)](https://github.com/hanna244/EUID-mentoring)
+  [![한나가 공부 중인 이듬 멘토링 프로그램](https://github-readme-stats.vercel.app/api/pin/?username=hanna244&repo=EUID-mentoring&show_owner=true)](https://github.com/hanna244/EUID-mentoring) -->
 
 <!-- - **이듬(E.UID) 블렌디드 러닝 2020**에 참여했어요. -->
 
   <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=yamoo9&repo=EUID_202010&show_owner=true)](https://github.com/yamoo9/EUID_202010) -->
 
-<br/>
 
 ## Hanna is working project repository <img align="middle" title="repository" alt="" height="40" src="https://thumbs.gfycat.com/WeepySelfassuredAnteater.webp" />
 
@@ -96,7 +95,13 @@
 
 **넷플릭스(Netflix) 개선 프로젝트**를 진행하고 있어요. (비공개)
 
+**CSS & Scss 버전**
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=hanna244&repo=make-better-netflix-website&show_owner=true)](https://github.com/hanna244/make-better-netflix-website)
+
+**React 버전** 
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=hanna244&repo=make-better-netflix-website&show_owner=true)](https://github.com/hanna244/make-better-netflix-website-react)
 
 <!-- 왓챠 레이블  -->
 <!-- <a href="" target="_blank" rel="noopener noreferrer"><img style="vertical-align: -3px" src="https://img.shields.io/badge/Watcha%20Make%20Better!-%20-fe0557?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAiCAMAAAAJbCvNAAAApVBMVEUAAAD+BVb+BVf+BVf+BVf9BVf9BVf+BVf+BVf+BVf9BVf9BVf9BVf9BVf+BVf+BVf+BVf+BVf+BVf9BVf9BVf9BVf9BVf9BVf+BVf9BVf8BVf9BVf9BVf9BVf9BVf+BVf+BVf/BVf9BVf9BVf9BVf8BVf9BVf9BVf8BVf9BVf+BVf+BVf+BVf8BVf9BVf9BVf9BVf9BVf+BVf+BVf8BVf8BVf/BVfjWDP/AAAANnRSTlMA/mUs+smkDu/qeGtPMQj28uXWwKteRtvOsphRTDooJBcD4sa6jYt/c1g/HAuelY+EHhMFfnCiGDeEAAABfUlEQVQ4y3WT6ZaCMAyFg4CgyCKLjDu4L+M+w/s/2jRJacfj6fdD70lva28awcAjtojEZFhYDZGaDPOGyU2GkTT8mAxHaZiaDB1ed2yToc+GoQcdpoiwfEI5QrVjwxogbpglljNUZS3UhasXgI004L46RRWfhcy52ge4S0MgqlVCckZntXIgDTdRDVnuhfwiZS0AlvISYwyvZF2S6nkAr1Q3fc9yFcH3kJQLgjFX/SdAl6VlQ+WT6gJuU1VwG6aApdOG0Lec4bnMtb3ugF6ezc2BtznUv3l7qiBasWFCT5we8D7RSIUA1csNBOIzs1HbUxmC2LKhhBtOUOTjLQsZgijYkHgYeEs9vP6qENRgJsSlgJrhTv6Pk9djwxa/BzwqjgzBrBtNyH1pQzATvR6fuS8qhB7Q93dSIfSfRG/KSHEI5pkoQ65+UYeg8WnZAVBD30LwHOjJPDVt55QBH0i/79mx/DLr3o8g0XucHp5az+3qBW88/KGb74JZWMEHf4PBdFtCfvqkAAAAAElFTkSuQmCC&logoColor=E50914&labelColor=000&link=https://watcha.com" alt="왓챠(Watcha) 개선 프로젝트" /></a> -->
