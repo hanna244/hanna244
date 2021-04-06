@@ -69,7 +69,7 @@
 
 <br/>
 
-<!-- ## Hanna is participating learning repository
+## Hanna is participating learning repository
 
 <a href="" target="_blank" rel="noopener noreferrer"><img style="vertical-align: -3px" src="https://img.shields.io/badge/E.UID%20Mentoring%20Program-%20-E50914?style=flat&logo=github&logoColor=fff&labelColor=000&color=FFCC00" alt="이듬 멘토링 프로그램" /></a>
 
@@ -77,9 +77,9 @@
 
 
 **이듬(E.UID) 멘토링 프로그램**에 참여하고 있어요.  
-이 저장소에서 저의 TIL 등 공부하는 모습을 볼 수 있습니다! 구경하러 오세요. 열심히 하고 있어요. 😁 📚✏️
 
-  [![한나가 공부 중인 이듬 멘토링 프로그램](https://github-readme-stats.vercel.app/api/pin/?username=hanna244&repo=EUID-mentoring&show_owner=true)](https://github.com/hanna244/EUID-mentoring) -->
+
+  [![한나가 공부 중인 이듬 멘토링 프로그램](https://github-readme-stats.vercel.app/api/pin/?username=hanna244&repo=EUID-mentoring&show_owner=true)](https://github.com/hanna244/EUID-mentoring)
 
 <!-- - **이듬(E.UID) 블렌디드 러닝 2020**에 참여했어요. -->
 
