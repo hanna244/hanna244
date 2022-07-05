@@ -13,95 +13,47 @@
 - ⚡ 재미있는 사실: ...
 -->
 
-## Hi there, I'm Hanna <img align="middle" title="I'm Hanna" alt="" height="40" src="https://thumbs.gfycat.com/InnocentNarrowHyracotherium.webp" />&nbsp; 
-
 <!-- 참고: https://shields.io/ -->
 <!-- 참고: https://simpleicons.org/ -->
 
-<img src="https://img.shields.io/badge/Christianity-%20-blue?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAApCAMAAABjq9sOAAAAolBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8ELnaCAAAANXRSTlMA+ubi0vRBBPz27ddjNiHu6t3Nw2obEArox6eRg3hfUzIfDQjxu7OtjFBLRTstJBcUEqKYJhb30NcAAAEXSURBVDjLvdTZboMwEEDRARtIwr4lAcKefU9b//+vtWaklkqdWspD7uNwxGJhw6jU1odYA393nQjMJMCC4fWpB0QZAragQI4gA6oVgpwEDoIVCU4IEhJcEBxJkBoDcGFc5Zzb789iwzLcAOtTt3JATli2K0qnNt1QgvXJPFRlkcehvCFo4r/UYPIKILBpEPJ4M6yDFsc8XBoCg8jeFsnB9R49ANhy5HcA1rxtjsl+xzlYFvzEJQjmo4kFv4okWEpApAT4iAdQWfiSdwVY30jQMwmMlgSdLoF2JcF9JmQX9S9H9aGRWxNrxFBNAhOBQ4IaQUmCBMFetXnfSPCOYEOCLQJOggiB3j17Rnma4pTzmD/7yg/Oo+EnM9VWjcmPx28AAAAASUVORK5CYII=&logoColor=white&labelColor=282a36&color=d73a3a" alt="Christianity" />&nbsp; 
-<img src="https://img.shields.io/badge/Front--End%20Developer-%20-blue?style=flat&logo=google-tag-manager&logoColor=white&labelColor=282a36&color=d73a82" alt="Front-End Developer" />&nbsp; 
-<img src="https://img.shields.io/badge/Chinese%20literature-%20-blue?style=flat&logo=microsoft-academic&logoColor=white&labelColor=282a36&color=e69481" alt="Chinese Literature" />&nbsp; 
-<img src="https://img.shields.io/badge/I%20like%20Traveling-%20-blue?style=flat&logo=tripadvisor&logoColor=white&labelColor=282a36&color=d7983a" alt="I like Traveling" />
-<a href="https://www.instagram.com/hanna_kim244/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/instagram-hanna_kim244-blue?logo=instagram&logoColor=fff&labelColor=282a36&color=d7573a" alt="hanna instagram" /></a>
+<!-- <a href="https://www.instagram.com/hanna_kim244/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/instagram-hanna_kim244-blue?logo=instagram&logoColor=fff&labelColor=282a36&color=d7573a" alt="hanna instagram" /></a> -->
 
 <!-- 테마 참고: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hanna244&count_private=true&include_all_commits=true&line_height=24&show_icons=true&theme=solarized-light&hide=issues" width="360" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Web%20Standard-%20-blue?style=flat&logo=wear-os&logoColor=white&labelColor=282a36&color=1ED760" alt="Web Standard" />
+  <img src="https://img.shields.io/badge/Web%20Accessibility-%20-blue?style=flat&logo=wear-os&logoColor=white&labelColor=282a36&color=06D6A9" alt="Web Accessibility" />
+  <img src="https://img.shields.io/badge/JavaScript%20Follower-%20-blue?style=flat&logo=javascript&logoColor=white&labelColor=282a36&color=005cc5" alt="JavaScript Follower" />
+  <img src="https://img.shields.io/badge/React%20Follower-%20-blue?style=flat&logo=react&logoColor=white&labelColor=282a36&color=61DAFB" alt="React Follower" />
+</div>
+
+<br />
+
+<div align="center">
+  <img align="center" title="Accessibility" alt="Accessibility" width="35" src="./assets/a11y.jpg" />
+  <img align="center" title="HTML5" alt="HTML5" width="35" src="./assets/html.jpg" />
+  <img align="center" title="CSS3" alt="CSS3" width="35" src="./assets/css.jpg" />
+  <img align="center" title="Sass" alt="Sass" width="35" src="./assets/sass.jpg" />
+  <img align="center" title="JavaScript" alt="JavaScript" width="35" src="./assets/js.jpg" />
+  <img align="center" title="ECMAScript 2015" alt="ECMAScript 2015" width="35" src="./assets/es6.jpg" />
+  <img align="center" title="React" alt="React" width="35" src="./assets/react.jpg" />
+  <img align="center" title="Storybook" alt="Storybook" width="35" src="./assets/storybook.png" />
+  <img align="center" title="Node JS" alt="Node JS" width="35" src="./assets/nodejs.jpg" />
+  <img align="center" title="Firebase" alt="Firebase" width="35" src="./assets/firebase.jpg" />
+  <img align="center" title="GitHub" alt="GitHub" width="35" src="./assets/github.jpg" />
+  <img align="center" title="Git" alt="Git" width="35" src="./assets/git.jpg" />
+  <img align="center" title="VS Code" alt="Visual Studio Code" width="35" src="./assets/vscode.jpg" />
+  <img align="center" title="VS Code" alt="Figma" width="35" src="./assets/figma.png" />
+</div>
+
+<br />
+<br />
 
 <!-- 참고: https://getemoji.com/#objects -->
 
-- 2021년의 저는 **좋은 개발자로 성장**할 겁니다. 지켜봐주세요. 👀 🙊
-- 코로나19 🦠 로 전 세계가 힘들지만, 모두 힘내서 이겨냈으면 좋겠습니다. 🌹
-- 연락은 <shhn0509@gmail.com>로 메일 주세요. ☃️
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hanna244&count_private=true&include_all_commits=true&line_height=24&show_icons=true&theme=solarized-light&hide=stars" width="360" />
+  
+</div>
 
-<br />
-
-
-<br />
-
-## Languages and Tools<img align="middle" title="Languages and Tools" alt="" height="40" src="https://thumbs.gfycat.com/BewitchedCharmingGalapagostortoise.webp" />&nbsp; 
-
-<img src="https://img.shields.io/badge/Web%20Standard-%20-blue?style=flat&logo=wear-os&logoColor=white&labelColor=282a36&color=1ED760" alt="Web Standard" />&nbsp; 
-<img src="https://img.shields.io/badge/Web%20Accessibility-%20-blue?style=flat&logo=wear-os&logoColor=white&labelColor=282a36&color=06D6A9" alt="Web Accessibility" />&nbsp; 
-<img src="https://img.shields.io/badge/JavaScript%20Follower-%20-blue?style=flat&logo=javascript&logoColor=white&labelColor=282a36&color=005cc5" alt="JavaScript Follower" />&nbsp; 
-<img src="https://img.shields.io/badge/React%20Follower-%20-blue?style=flat&logo=react&logoColor=white&labelColor=282a36&color=61DAFB" alt="React Follower" />&nbsp; 
-
-<img align="left" title="Accessibility" alt="Accessibility" width="26" src="./assets/a11y.jpg" />
-<img align="left" title="HTML5" alt="HTML5" width="26" src="./assets/html.jpg" />
-<img align="left" title="CSS3" alt="CSS3" width="26" src="./assets/css.jpg" />
-<img align="left" title="Sass" alt="Sass" width="26" src="./assets/sass.jpg" />
-<img align="left" title="JavaScript" alt="JavaScript" width="26" src="./assets/js.jpg" />
-<img align="left" title="ECMAScript 2015" alt="ECMAScript 2015" width="26" src="./assets/es6.jpg" />
-<img align="left" title="React" alt="React" width="26" src="./assets/react.jpg" />
-<img align="left" title="Storybook" alt="Storybook" width="26" src="./assets/storybook.png" />
-<img align="left" title="Node JS" alt="Node JS" width="26" src="./assets/nodejs.jpg" />
-<img align="left" title="Firebase" alt="Firebase" width="26" src="./assets/firebase.jpg" />
-<img align="left" title="GitHub" alt="GitHub" width="26" src="./assets/github.jpg" />
-<img align="left" title="Git" alt="Git" width="26" src="./assets/git.jpg" />
-<img align="left" title="VS Code" alt="Visual Studio Code" width="26" src="./assets/vscode.jpg" />
-<img align="left" title="VS Code" alt="Figma" width="26" src="./assets/figma.png" />
-
-<br/>
-<br/>
-<br/>
-
-[![한나가 사용 중인 프로그래밍 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=hanna244&layout=compact)](https://github.com/hanna244)
-
-<br/>
-
-## Hanna is participating learning repository
-
-<a href="" target="_blank" rel="noopener noreferrer"><img style="vertical-align: -3px" src="https://img.shields.io/badge/E.UID%20Mentoring%20Program-%20-E50914?style=flat&logo=github&logoColor=fff&labelColor=000&color=FFCC00" alt="이듬 멘토링 프로그램" /></a>
-
-<img align="right" title="VS Code" alt="" height="180" src="./assets/yoyo.gif" />
-
-
-**이듬(E.UID) 멘토링 프로그램**에 참여하고 있어요.  
-
-
-  [![한나가 공부 중인 이듬 멘토링 프로그램](https://github-readme-stats.vercel.app/api/pin/?username=hanna244&repo=EUID-mentoring&show_owner=true)](https://github.com/hanna244/EUID-mentoring)
-
-<!-- - **이듬(E.UID) 블렌디드 러닝 2020**에 참여했어요. -->
-
-  <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=yamoo9&repo=EUID_202010&show_owner=true)](https://github.com/yamoo9/EUID_202010) -->
-
-
-## Hanna is working project repository <img align="middle" title="repository" alt="" height="40" src="https://thumbs.gfycat.com/WeepySelfassuredAnteater.webp" />
-
-<!-- 참고: https://shields.io/, https://simpleicons.org, https://worldvectorlogo.com -->
-
-<a href="" target="_blank" rel="noopener noreferrer"><img style="vertical-align: -3px" src="https://img.shields.io/badge/Netflix%20Make%20Better!-%20-E50914?style=flat&logo=netflix&logoColor=E50914&labelColor=000&link=https://netflix.com" alt="Netflix 개선 프로젝트" /></a>
-
-**넷플릭스(Netflix) 개선 프로젝트**를 진행하고 있어요. (비공개)
-
-**CSS & Scss 버전**
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=hanna244&repo=make-better-netflix-website&show_owner=true)](https://github.com/hanna244/make-better-netflix-website)
-
-**React 버전** 
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=hanna244&repo=make-better-netflix-website&show_owner=true)](https://github.com/hanna244/make-better-netflix-website-react)
-
-<!-- 왓챠 레이블  -->
-<!-- <a href="" target="_blank" rel="noopener noreferrer"><img style="vertical-align: -3px" src="https://img.shields.io/badge/Watcha%20Make%20Better!-%20-fe0557?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAiCAMAAAAJbCvNAAAApVBMVEUAAAD+BVb+BVf+BVf+BVf9BVf9BVf+BVf+BVf+BVf9BVf9BVf9BVf9BVf+BVf+BVf+BVf+BVf+BVf9BVf9BVf9BVf9BVf9BVf+BVf9BVf8BVf9BVf9BVf9BVf9BVf+BVf+BVf/BVf9BVf9BVf9BVf8BVf9BVf9BVf8BVf9BVf+BVf+BVf+BVf8BVf9BVf9BVf9BVf9BVf+BVf+BVf8BVf8BVf/BVfjWDP/AAAANnRSTlMA/mUs+smkDu/qeGtPMQj28uXWwKteRtvOsphRTDooJBcD4sa6jYt/c1g/HAuelY+EHhMFfnCiGDeEAAABfUlEQVQ4y3WT6ZaCMAyFg4CgyCKLjDu4L+M+w/s/2jRJacfj6fdD70lva28awcAjtojEZFhYDZGaDPOGyU2GkTT8mAxHaZiaDB1ed2yToc+GoQcdpoiwfEI5QrVjwxogbpglljNUZS3UhasXgI004L46RRWfhcy52ge4S0MgqlVCckZntXIgDTdRDVnuhfwiZS0AlvISYwyvZF2S6nkAr1Q3fc9yFcH3kJQLgjFX/SdAl6VlQ+WT6gJuU1VwG6aApdOG0Lec4bnMtb3ugF6ezc2BtznUv3l7qiBasWFCT5we8D7RSIUA1csNBOIzs1HbUxmC2LKhhBtOUOTjLQsZgijYkHgYeEs9vP6qENRgJsSlgJrhTv6Pk9djwxa/BzwqjgzBrBtNyH1pQzATvR6fuS8qhB7Q93dSIfSfRG/KSHEI5pkoQ65+UYeg8WnZAVBD30LwHOjJPDVt55QBH0i/79mx/DLr3o8g0XucHp5az+3qBW88/KGb74JZWMEHf4PBdFtCfvqkAAAAAElFTkSuQmCC&logoColor=E50914&labelColor=000&link=https://watcha.com" alt="왓챠(Watcha) 개선 프로젝트" /></a> -->
-
+<!-- [![프로그래밍 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=hanna244&layout=compact)](https://github.com/hanna244) -->
